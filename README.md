@@ -1,5 +1,5 @@
 # Readme for the Catalog App.
-
+Trying to make this available on github.io...
 This application can be ran from the localhost at http://localhost:8000/ after running the following two commands to set up the database from the same folder as this Readme:
 
 	1. python lotsofitem.py
